@@ -3,4 +3,4 @@ Simple Tip App
 
 
 
-![Github](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Github](https://imgur.com/a/XVU6g9s.gif)
