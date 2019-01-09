@@ -1,4 +1,5 @@
 # TipApplication
 Simple Tip App
 
-https://imgur.com/a/XVU6g9s.gif
+https://i.imgur.com/PH3fKtn.gif
+
