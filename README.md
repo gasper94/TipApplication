@@ -1,2 +1,2 @@
 # TipApplication
-Simple Tip App
+Simple Tip App.
